@@ -1,14 +1,14 @@
 l
-<h1 align="center">GOJO-MD 0.0.1</h1>
+<h1 align="center">MOON-MD 0.0.1</h1>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=GOJO+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=MOON+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/VajiraTech">
-    <img src="https://pomf2.lain.la/f/nk0qjlsg.png"  width="700px">
+    <img src="https://raw.githubusercontent.com/moonmd340/helper/refs/heads/main/IMG-20250601-WA0079.jpg"  width="700px">
 </a>
 <hr>
 
@@ -85,7 +85,7 @@ l
 
 ## GOJO MD DEVELOPER 
 
-sayura mihiranga*⏩
+Pasidhu nuwan *⏩
 
 
 
