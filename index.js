@@ -143,11 +143,11 @@ async function connectToWA() {
             console.log('Plugins installed ✅')
             console.log('Bot connected ✅')
 await conn.sendMessage(config.OWNER_NUMBER + "@s.whatsapp.net", {
-text: "*👨‍💻 GOJO MD 👨‍💻 successfully connected* ✓\n\n Use .Update command to see GOJO md new update news \n\n> ◦ *Official  Chanel* - ```https://whatsapp.com/channel/0029VbB9tgf4NVih7bqzzf0s```\n> ◦ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴠɪᴀ ᴛʏᴘᴇ: .joinsup\n*👨‍💻 GOJO ᴍᴅ 👨‍💻 ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*ᴄʀᴇᴀᴛᴇᴅ ʙʏ • sayura mihiranga*",
+text: "*👨‍💻 MOON MD 👨‍💻 successfully connected* ✓\n\n Use .Update command to see GOJO md new update news \n\n> ◦ *Official  Chanel* - ```https://whatsapp.com/channel/0029VbB9tgf4NVih7bqzzf0s```\n> ◦ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴠɪᴀ ᴛʏᴘᴇ: .joinsup\n*👨‍💻 GOJO ᴍᴅ 👨‍💻 ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*ᴄʀᴇᴀᴛᴇᴅ ʙʏ • sayura mihiranga*",
 contextInfo: {
 externalAdReply: {
-title: "👨‍💻 GOJO MD 👨‍💻\nSuccessfully Connected !",	
-thumbnailUrl: "https://raw.githubusercontent.com/gojosathory1/My-helper/refs/heads/main/file_00000000d0dc61f597f450261ecfe33f%20(1).png",
+title: "👨‍💻 MOON MD 👨‍💻\nSuccessfully Connected !",	
+thumbnailUrl: "https://raw.githubusercontent.com/moonmd340/helper/refs/heads/main/IMG-20250601-WA0079.jpg",
 sourceUrl: "",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -442,11 +442,11 @@ contextInfo: {
     isForwarded: true,
     
 externalAdReply: { 
-title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
+title: '👨‍💻 GOJO MD 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
 sourceUrl: "https://wa.me/94743826406" ,
-thumbnailUrl: 'https://raw.githubusercontent.com/gojosathory1/My-helper/refs/heads/main/file_00000000d0dc61f597f450261ecfe33f%20(1).png' ,
+thumbnailUrl: 'https://raw.githubusercontent.com/moonmd340/helper/refs/heads/main/IMG-20250601-WA0079.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
 }
@@ -480,7 +480,7 @@ title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
 sourceUrl: "https://wa.me/94743826406" ,
-thumbnailUrl: 'https://raw.githubusercontent.com/gojosathory1/My-helper/refs/heads/main/file_00000000d0dc61f597f450261ecfe33f%20(1).png' ,
+thumbnailUrl: 'https://raw.githubusercontent.com/moonmd340/helper/refs/heads/main/IMG-20250601-WA0079.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
 }
@@ -500,7 +500,7 @@ title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
 sourceUrl: "https://wa.me/94743826406" ,
-thumbnailUrl: 'https://raw.githubusercontent.com/gojosathory1/My-helper/refs/heads/main/file_00000000d0dc61f597f450261ecfe33f%20(1).png' ,
+thumbnailUrl: 'https://raw.githubusercontent.com/moonmd340/helper/refs/heads/main/IMG-20250601-WA0079.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
 }
@@ -572,7 +572,7 @@ title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
 sourceUrl: "https://wa.me/94743826406" ,
-thumbnailUrl: 'https://raw.githubusercontent.com/gojosathory1/My-helper/refs/heads/main/file_00000000d0dc61f597f450261ecfe33f%20(1).png' ,
+thumbnailUrl: 'https://raw.githubusercontent.com/moonmd340/helper/refs/heads/main/IMG-20250601-WA0079.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
 }
@@ -591,7 +591,7 @@ title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
 sourceUrl: "https://wa.me/94743826406" ,
-thumbnailUrl: 'https://raw.githubusercontent.com/gojosathory1/My-helper/refs/heads/main/file_00000000d0dc61f597f450261ecfe33f%20(1).png' ,
+thumbnailUrl: 'https://raw.githubusercontent.com/moonmd340/helper/refs/heads/main/IMG-20250601-WA0079.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
 }
@@ -637,7 +637,7 @@ title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
 sourceUrl: "https://wa.me/94743826406" ,
-thumbnailUrl: 'https://raw.githubusercontent.com/gojosathory1/My-helper/refs/heads/main/file_00000000d0dc61f597f450261ecfe33f%20(1).png' ,
+thumbnailUrl: 'https://raw.githubusercontent.com/moonmd340/helper/refs/heads/main/IMG-20250601-WA0079.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
 }
@@ -681,7 +681,7 @@ title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
 sourceUrl: "https://wa.me/94743826406" ,
-thumbnailUrl: 'https://raw.githubusercontent.com/gojosathory1/My-helper/refs/heads/main/file_00000000d0dc61f597f450261ecfe33f%20(1).png' ,
+thumbnailUrl: 'https://raw.githubusercontent.com/moonmd340/helper/refs/heads/main/IMG-20250601-WA0079.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
 }
@@ -968,7 +968,7 @@ events.commands.map(async (command) => {
     })
 }
 app.get("/", (req, res) => {
-res.send("📟 Gojo-Md Working successfully!");
+res.send("📟 MOON-Md Working successfully!");
 });
 app.listen(port, () => console.log(`Vajira-Md Server listening on port http://localhost:${port}`));
 setTimeout(() => {
