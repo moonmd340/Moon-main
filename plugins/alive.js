@@ -22,7 +22,7 @@ cmd({
         
             
 
-    } catch (e) {
+     catch (e) {
         console.log(e);
         reply("Error in .alive command:\n" + e);
     }
