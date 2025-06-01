@@ -33,7 +33,7 @@ cmd({
             return reply("Failed to fetch the video. Please try again later.");
         }
         
-        let ytmsg = `╭━━━〔 *𝔾𝕆𝕁𝕆-𝐌𝐃* 〕━━━┈⊷
+        let ytmsg = `╭━━━〔 *MOON-𝐌𝐃* 〕━━━┈⊷
 ┇๏ *Title* -  ${yts.title}
 ┇๏ *Duration* - ${yts.timestamp}
 ┇๏ *Views* -  ${yts.views}
@@ -54,7 +54,7 @@ cmd({
             document: { url: data.result.download_url }, 
             mimetype: "video/mp4", 
             fileName: `${data.result.title}.mp4`, 
-            caption: `> *${yts.title}*\n> 🄿🄾🅆🄴🅁🄳 🅱🆈 𝔾𝕆𝕁𝕆 𝕄𝔻 😈`
+            caption: `> *${yts.title}*\n> 🄿🄾🅆🄴🅁🄳 🅱🆈 MOON 𝕄𝔻 😈`
         }, { quoted: mek });
 
     } catch (e) {
@@ -111,7 +111,7 @@ cmd({
             document: { url: data.result.download_url }, 
             mimetype: "audio/mpeg", 
             fileName: `${yts.title}.mp3`, 
-            caption: `> *${yts.title}*\n> 🄿🄾🅆🄴🅁🄳 🅱🆈 𝔾𝕆𝕁𝕆_𝐌𝐃 😈`
+            caption: `> *${yts.title}*\n> 🄿🄾🅆🄴🅁🄳 🅱🆈 MOON_𝐌𝐃 😈`
         }, { quoted: mek });
 
     } catch (e) {
@@ -197,7 +197,7 @@ async (conn, mek, m, { from, isOwner, quoted, reply }) => {
 
 > 𝐏ᴏᴡᴇʀᴅ 𝐁ʏ 𝐆𝐎𝐉𝐎_𝐌ᴅ......👁️❗`;
 
-        const vv = await conn.sendMessage(from, { image: { url: "https://raw.githubusercontent.com/gojosathory1/My-helper/refs/heads/main/file_00000000d0dc61f597f450261ecfe33f%20(1).png"}, caption: desc }, { quoted: mek });
+        const vv = await conn.sendMessage(from, { image: { url: "https://raw.githubusercontent.com/moonmd340/helper/refs/heads/main/IMG-20250601-WA0079.jpg"}, caption: desc }, { quoted: mek });
 
         conn.ev.on('messages.upsert', async (msgUpdate) => {
             const msg = msgUpdate.messages[0];
