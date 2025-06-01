@@ -19,13 +19,8 @@ cmd({
         }, { quoted: mek });
 
         // Send voice message (PTT style)
-        await gojo.sendMessage(from, {
-            audio: {
-                url: "https://github.com/gojosathory1/My-helper/raw/refs/heads/main/gojo-satoru%20(2).mp3"
-            },
-            mimetype: 'audio/mpeg',
-            ptt: true
-        }, { quoted: mek });
+        
+            
 
     } catch (e) {
         console.log(e);
